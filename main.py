@@ -7,8 +7,8 @@ import random
 conn = connect(
     host = 'localhost',
     user = 'root', 
-    password = 'Lalitha@19',
-    database = 'wise1'
+    password = '', # your password
+    database = '' # your database name
 )
 
 
